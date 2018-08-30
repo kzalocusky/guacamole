@@ -1,6 +1,8 @@
 mash avocado
 chop onions
-add chopped tomatoes
+add onions
+chop tomatoes
+add tomatoes
 juice lime
 salt and pepper to taste
 add hot sauce to taste
